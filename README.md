@@ -1,3 +1,4 @@
-# Notes
+# Table of Contents
 
-These are my notes for courses at UC Berkeley. I'm trying to write them with Latex. 
+CSM 16A/16B Resources written by Damanic Luck
+
