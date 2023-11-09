@@ -2,3 +2,4 @@
 
 CSM 16A/16B Resources written by Damanic Luck
 
+Credit: [directory: name]
