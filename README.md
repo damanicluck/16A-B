@@ -2,4 +2,6 @@
 
 CSM 16A/16B Resources written by Damanic Luck
 
-Credit: [directory: name]
+Credits: <br/>
+Damanic: Main author <br/>
+Alex: Co author
