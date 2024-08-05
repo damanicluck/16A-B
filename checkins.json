@@ -1,0 +1,81 @@
+{
+    "Question 1" : [{
+        "question": "What condition on the A matrix must be met so that we can apply the least squares formula?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Invertible",
+                "correct": "False",
+                "feedback": "False."
+            },
+            {
+                "answer": "Square",
+                "correct": "False",
+                "feedback": "False."
+            },
+            {
+                "answer": "Linearly independent",
+                "correct": "True",
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Full rank",
+                "correct": "False",
+                "feedback": "False."
+            }
+        ]
+    }]
+    "Question x" : [{
+        "question": ,
+        "type": ,
+        "answers": [
+            {
+                "answer": ,
+                "correct": ,
+                "feedback":
+            },
+            {
+                "answer": ,
+                "correct": ,
+                "feedback":
+            },
+            {
+                "answer": ,
+                "correct": ,
+                "feedback":
+            },
+            {
+                "answer": ,
+                "correct": ,
+                "feedback":
+            }
+        ]
+    }]
+
+    // "Question x" : [{
+    //     "question": ,
+    //     "type": ,
+    //     "answers": [
+    //         {
+    //             "answer": ,
+    //             "correct": ,
+    //             "feedback":
+    //         },
+    //         {
+    //             "answer": ,
+    //             "correct": ,
+    //             "feedback":
+    //         },
+    //         {
+    //             "answer": ,
+    //             "correct": ,
+    //             "feedback":
+    //         },
+    //         {
+    //             "answer": ,
+    //             "correct": ,
+    //             "feedback":
+    //         }
+    //     ]
+    // }]
+}
